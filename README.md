@@ -4,8 +4,6 @@ For Deepak Cybit
 =======
 # README
 
-Things you may want to cover:
-
 * https://github.com/shr-ver-2/projects
 
 * Ruby version 2.5.7p206
