@@ -9,6 +9,8 @@ gem 'rails', '~> 5.2.8', '>= 5.2.8.1'
 gem 'mysql2', '>= 0.4.4', '< 0.6.0'
 gem 'cocoon'
 gem 'kaminari'
+gem 'jquery-rails', '~> 4.3'
+gem 'rails-ujs', '~> 0.1.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
